@@ -8,7 +8,5 @@ Feel free to fork this yourself if you're interested in the code.
 I cannot promise that I'll pull your changes since I'm not really
 focused on maintaining a project right now. :)
 
-Drew's original project code is on Google Drive. Check out his
-YouTube series for details:
-
-https://www.youtube.com/playlist?list=PLcjhmZ8oLT0r9dSiIK6RB_PuBWlG1KSq_
+Drew's original project code is on Google Drive. Check out [his
+YouTube series](https://www.youtube.com/playlist?list=PLcjhmZ8oLT0r9dSiIK6RB_PuBWlG1KSq_) for details.
